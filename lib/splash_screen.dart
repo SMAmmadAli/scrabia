@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:scrabia/Auth/login.dart';
+import 'package:scrabia/Auth/login_view.dart';
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});

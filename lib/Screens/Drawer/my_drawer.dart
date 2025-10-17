@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:scrabia/Auth/login.dart';
+import 'package:scrabia/Auth/login_view.dart';
 import 'package:scrabia/utils/colors.dart';
 import 'package:scrabia/utils/global.dart';
 import 'package:scrabia/Screens/BottomNavigationBar/Home/auctions_list.dart';
